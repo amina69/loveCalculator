@@ -1,0 +1,102 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+    font-size: 30px
+}
+
+#converter{
+    width: 320px;
+    height: 520px;
+    background-color: #eaedef;
+    border-radius: 5px;
+    margin: auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
+
+#converter2{
+    width: 320px;
+    height: 470px;
+    background-color: #eaedef;
+    border-radius: 5px;
+    margin: auto;
+    padding-top: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
+
+.body {
+    padding: 20px;
+}
+
+input{
+    margin-top: 10px;
+    padding: 15px;
+    padding-left: 75px;
+    text-align: left;
+    border-style: double;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#result{
+    padding-top: 20px;
+    text-align: left;
+    padding: 50px;
+    margin-left: 0;
+    overflow: scroll;
+}
+
+button{
+    background-color: indianred;
+    padding: 10px;
+    border-radius: 20px;
+    border-style: none;
+    font-size: 15px;
+    border-width: 0;
+    font-weight: bold;
+    outline: 0;
+    margin-left: 100px;
+}
+
+button:hover{
+    color: white;
+}
+
+#back0{
+    margin-left: 10px;
+    padding: 20px;
+    margin-left: 39%
+}
+
+#back{
+    margin-left: 10px;
+    padding: 20px;
+    margin-left: 39%
+}
+
+#back0 button{
+    padding: 20px;
+    border-radius: 50px;
+    border-style: none;
+    outline: 0;
+}
+
+.title .h{
+    padding-top: 20%;
+    color: indianred;
+}
+
+#back button{
+    padding: 20px;
+    border-radius: 50px;
+    border-style: none;
+    outline: 0;
+}
+
+.title{
+    text-align: center;
+}
+
+.title h3{
+    margin-top: 30px;
+}
